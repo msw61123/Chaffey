@@ -52,7 +52,7 @@ int main()
     vector <int> amountOfColors; 
     vector <order> amountOrdersList;
     int amountOfOrders;
-// commnetd
+// commnetdjkhdhaf
     cout << "Welcome to Tshirt-Co." << endl; 
     
     cout << "How many other orders will you be making today?";
